@@ -1,0 +1,11 @@
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\HelloWorld.API.deps.json
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\HelloWorld.API.runtimeconfig.json
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\HelloWorld.API.runtimeconfig.dev.json
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\HelloWorld.API.dll
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\HelloWorld.API.pdb
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\HelloWorld.API.csprojResolveAssemblyReference.cache
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\HelloWorld.API.csproj.CoreCompileInputs.cache
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\HelloWorld.API.AssemblyInfoInputs.cache
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\HelloWorld.API.AssemblyInfo.cs
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\HelloWorld.API.dll
+C:\Users\zahid\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\HelloWorld.API.pdb
